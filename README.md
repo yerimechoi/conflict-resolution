@@ -1,0 +1,2 @@
+# conflict-resolution
+class activity
